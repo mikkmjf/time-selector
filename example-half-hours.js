@@ -1,5 +1,3 @@
-<html>
-
 <script type="text/javascript">
 var clockID;
 var yourTimeZoneFrom = +0.50; // example your time is 18:00, this will show 18:30, use 0.25 for 15mins and 0.75 for 45mins
@@ -39,7 +37,3 @@ window.onload=function() {
   StartClock();
 }
 </script>
-
-<span id="theTime"></span>
-
-</html>
